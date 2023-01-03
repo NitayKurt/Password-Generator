@@ -1,3 +1,4 @@
-# Password-Generator
-Password generator in java
+# Password-Generator && Caeser Cipher
+Password generator in java and Caeser cipher generator
 enjoy!
+I'm here for any questions:)
